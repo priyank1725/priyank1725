@@ -1,6 +1,73 @@
 # 💫 About Me:
-Hi, I'm Priyank. I have 3.5 years of experience as a MERN Stack Developer. I have worked extensively with React.js, Node.js, Express.js, Hapi.js, MongoDB, and PostgreSQL to build and maintain scalable web applications.<br><br>On the frontend, I have experience with React components, Hooks, Redux, state management, API integration, UI libraries, and responsive design. On the backend, I have worked with REST APIs, authentication, webhooks, sessions, and third-party service integrations.<br><br>In my previous role, I was responsible for maintaining and enhancing key business modules, including Dashboard, Reporting, and Payments. I also implemented new payment pool systems and handled data migration activities for new features. Additionally, I have experience with Redis, RabbitMQ, Temporal workflows, Amplitude analytics, Nylas email integration, and Google ADK for AI-related solutions.<br><br>I enjoy solving technical problems, learning new technologies, and building reliable applications that deliver value to users.<br>
+# Hi, I'm Priyank 👋
 
+Full Stack MERN Developer with 3.5 years of experience building and maintaining scalable web applications.
+
+### Frontend
+
+* React.js
+* JavaScript (ES6+)
+* Redux
+* React Hooks
+* State Management
+* API Integration
+* DOM Manipulation
+* UI Component Libraries
+* Infinite Scroll
+* Modals
+* Responsive Design
+
+### Backend
+
+* Node.js
+* Express.js
+* Hapi.js
+* REST APIs
+* JWT Authentication
+* Sessions
+* Webhooks
+* Controller-Service Architecture
+* Third-Party Integrations
+
+### Databases
+
+* MongoDB
+* PostgreSQL
+* Database Schema Design
+* Joins
+* CTEs
+* Indexing
+* Aggregations
+* Query Optimization
+
+### Other Technologies
+
+* Redis
+* RabbitMQ
+* Temporal
+* Amplitude Analytics
+* Nylas Email Integration
+* Google ADK
+* MCP Integration
+* Git & GitHub
+
+## Professional Experience
+
+* Maintained and enhanced Dashboard, Reporting, and Payments modules.
+* Worked with data from both MongoDB and PostgreSQL.
+* Implemented payment pool systems and payment-related enhancements.
+* Performed data migrations to support new product features.
+* Integrated third-party services and APIs.
+* Built scalable backend services and frontend applications.
+* Implemented analytics tracking and reporting using Amplitude.
+
+## Currently Interested In
+
+* Full Stack Development
+* System Design
+* AI Agent Development
+* Performance Optimization
+* Scalable Web Applications
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyank-galani-4454711b8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyank000galani@gmail.com) 
